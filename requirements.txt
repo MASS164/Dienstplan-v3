@@ -1,4 +1,8 @@
 fastapi
-uvicorn
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-multipart
+jinja2
 pandas
 openpyxl
